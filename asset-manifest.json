@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motivational-quote-machine/static/css/main.5b6618c7.css",
+    "main.js": "/motivational-quote-machine/static/js/main.3fea3573.js",
+    "static/js/787.a3bdab1c.chunk.js": "/motivational-quote-machine/static/js/787.a3bdab1c.chunk.js",
+    "index.html": "/motivational-quote-machine/index.html",
+    "main.5b6618c7.css.map": "/motivational-quote-machine/static/css/main.5b6618c7.css.map",
+    "main.3fea3573.js.map": "/motivational-quote-machine/static/js/main.3fea3573.js.map",
+    "787.a3bdab1c.chunk.js.map": "/motivational-quote-machine/static/js/787.a3bdab1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b6618c7.css",
+    "static/js/main.3fea3573.js"
+  ]
+}
